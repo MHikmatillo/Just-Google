@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5299" started-at="2017-04-26T01:02:33Z" finished-at="2017-04-26T01:02:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5299" started-at="2017-04-26T01:02:33Z" finished-at="2017-04-26T01:02:39Z">
+      <class name="SimpleTestRun">
+        <test-method status="PASS" signature="testRun()[pri:0, instance:SimpleTestRun@7823a2f9]" name="testRun" duration-ms="5287" started-at="2017-04-25T21:02:33Z" finished-at="2017-04-25T21:02:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun -->
+      </class> <!-- SimpleTestRun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
