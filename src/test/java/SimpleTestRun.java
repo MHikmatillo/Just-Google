@@ -19,6 +19,7 @@ public class SimpleTestRun {
         driver.findElement(By.name("q")).submit();
         assertEquals(true, true);
        System.out.println("JAVA IS FUN");
+       System.out.println("I am telling Java is Fun");
         
     }
 }
